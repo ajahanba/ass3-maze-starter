@@ -13,6 +13,7 @@
 # redirect the output and stderr from this file to output.txt
 # $ ./simplecompile.sh > output.txt 2>&1
 
+#TO ENABLE CLANGTIDY do this EVERYTIME on linux lab: scl enable llvm-toolset-7.0 bash
 
 date
 
