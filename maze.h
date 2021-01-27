@@ -1,5 +1,5 @@
 //
-// Created by Yusuf Pisan on 4/18/18.
+// 
 //
 
 #ifndef ASS3_MAZE_H
