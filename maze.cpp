@@ -1,5 +1,4 @@
 //
-// Created by Yusuf Pisan on 4/18/18.
 //
 
 #include <fstream>
